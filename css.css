@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.conteudo {
+    width: 90%;
+    max-width: 1300px;
+    margin: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    background-color: brown;
+}
+nav.topo {
+    
+}
